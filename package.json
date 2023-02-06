@@ -1,0 +1,20 @@
+{
+  "name": "comp2146",
+  "version": "1.0.0",
+  "description": "hello Andre World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No test created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MachineryStudio/comp2146.git"
+  },
+  "keywords": [],
+  "author": "Andre Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MachineryStudio/comp2146/issues"
+  },
+  "homepage": "https://github.com/MachineryStudio/comp2146#readme"
+}
