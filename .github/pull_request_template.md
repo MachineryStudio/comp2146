@@ -1,5 +1,5 @@
 ### Description
-Provide a maximun of 3 sentences description of what the implementation was
+validate all requeriments
 
 ### Screenshots [Optional]
 
@@ -13,4 +13,6 @@ Instructions for testing this fix.
 - [ ] Rebased with base branch
 - [ ] CI passed
 - [ ] Code quality passed
+- [ ] have 10 commit
+- [ ] have 3 files with valid name
 - [ ] Approved by peers
